@@ -1,0 +1,2 @@
+# matplotlibrc
+My custom matplotlibrc
